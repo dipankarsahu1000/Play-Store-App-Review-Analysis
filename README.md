@@ -91,7 +91,7 @@ Following types of chart were used:
 
 <h1> Conclusion </h1>
 
-From this Exploratory Data Analysis, we have mainly gained the following inisghts:
+From this Exploratory Data Analysis, we have mainly gained the following insights:
 
 - A vast number of people use apps belonging to the categories of Game, 'Tools' and 'Communication'. So the developers may try to target these categories.
 
