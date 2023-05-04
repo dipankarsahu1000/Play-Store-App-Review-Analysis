@@ -121,11 +121,11 @@ From this Exploratory Data Analysis, we have mainly gained the following inisght
 - Choosing the right kind of charts for the visualisations and making sure that visualisation output is comprehensible.
 
 <h1> Libraries Used </h1>
-- numpy
-- pandas
-- matplotlib.pyplot
-- seaborn
-- missingno
-- wordcloud
-- datetime
-- warnings
+    - numpy
+    - pandas
+    - matplotlib.pyplot
+    - seaborn
+    - missingno
+    - wordcloud
+    - datetime
+    - warnings
