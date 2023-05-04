@@ -12,7 +12,7 @@ However, with such a vast amount data data it can become a difficult to understa
 
 There are two datasets available. One containing the details of the apps like its name, category to which it belongs to, the rating it has, its size, etc. While the other one contains details regarding the reviews given to the apps by the users and the sentiments attached to the reviews.
 
-<h1> Approach: </h1>
+<h1> Approach </h1>
 
 The following are the steps that are going to be followed:
 
@@ -63,3 +63,15 @@ The following are the steps that are going to be followed:
     - Sentiment: The sentiment of the users towards that app. It can be Positive, Negative or Neutral.
     - Sentiment_Polarity: A measure of the sentiment. It has a range of [ -1, 1 ]. The more negative the number is, the more negative is the sentiment         and the more positive it is, the more postive is the sentiment. If it is somewhere around 0, then it is a neutral sentiment.
     - Sentiment_Subjectivity: It defines how subjective are the reviews, or simply, by how much are the sentiments influenced by the personal opinions of       the user. It has a range of [ 0, 1]. More closer it is to 0, the more objective (unbiased or free of personal opinions) are the sentiments, and the       more closer it is to 1, the more subjective (biased or influenced by personal opinions) are the sentiments.
+    
+    
+<h1> Data Wrangling </h1>
+
+On the Play Store dataset and User Reviews dataset, some of the following procedures were used:
+- Taking care of the duplicate values.
+- Taking care of the null values.
+- Transforming the datatypes of the columns
+- Sanity Checks
+- Merging the User Reviews Dataset with the Play Store Dataset
+
+<h1> </h1>
