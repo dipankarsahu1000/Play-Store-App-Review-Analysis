@@ -61,8 +61,7 @@ The following are the steps that are going to be followed:
     - App: The name of the app.
     - Translated_Review: The reviews given by the users translated to English.
     - Sentiment: The sentiment of the users towards that app. It can be Positive, Negative or Neutral.
-    - Sentiment_Polarity: A measure of the sentiment. It has a range of [-1, 1]. The more negative the number is, the more negative is the sentiment 
-    - and the more positive it is, the more postive is the sentiment. If it is somewhere around 0, then it is a neutral sentiment.
+    - Sentiment_Polarity: A measure of the sentiment. It has a range of [-1, 1]. The more negative the number is, the more negative is the sentiment and       the more positive it is, the more postive is the sentiment. If it is somewhere around 0, then it is a neutral sentiment.
     - Sentiment_Subjectivity: It defines how subjective are the reviews, or simply, by how much are the sentiments influenced by the personal opinions of       the user. It has a range of [ 0, 1]. More closer it is to 0, the more objective (unbiased or free of personal opinions) are the sentiments, and the       more closer it is to 1, the more subjective (biased or influenced by personal opinions) are the sentiments.
     
     
