@@ -21,7 +21,6 @@ The following are the steps that are going to be followed:
 3. Data Wrangling: Taking care of the duplicate values, tending to the null/missing values, transforming the datatypes of the columns whenever required, etc.
 4. Data Vizualization & Experimenting with Charts: Understanding the relationships between variables with the help of suitable charts and coming up with some useful insights.
 5. Conclusion: Discussing the important insights that we have gained from the analysis.
-6. Challenges Faced: Mentioning the challenges faced during the analysis and how they were dealth with.
 
 <h1> Getting to Know the Data </h1>
 
