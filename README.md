@@ -91,11 +91,11 @@ Following types of chart were used:
 
 From this Exploratory Data Analysis, we have mainly gained the following insights:
 
-- A vast number of people use apps belonging to the categories of Game, 'Tools' and 'Communication'. So the developers may try to target these categories.
+- A vast number of people use apps belonging to the categories of 'Game', 'Tools' and 'Communication'. So the developers may try to target these categories.
 
 - There are more number of free apps than the paid ones. So this goes on to say that the market is huge for the free apps.
 
-- If the developers are interested in developing paid apps, then they should be created for the categories of 'Finance', 'Lifestyle' or 'Events'. As these are the categories which have the most number of paid apps, so it can be said that the users don't paying for the apps belonging to these categories.
+- If the developers are interested in developing paid apps, then they should be created for the categories of 'Finance', 'Lifestyle' or 'Events'. As these are the categories which have the most number of paid apps, so it can be said that the users don't mind paying for the apps belonging to these categories.
 
 - The developers should focus on apps with a content rating of 'Everyone', as more number of people use such apps.
 
