@@ -8,7 +8,7 @@ The Play Store is a repository for a multitude of apps. The humongous data it ho
 
 The developers need to know the standards to strive for and the factors to take care of in their apps. The users also rely on the app's ratings and reviews to make an informed decision.
 
-However, with such a vast amount data data it can become a difficult to understand what makes an app successful in the market. So that is why it is beneficial to perform an exploratory data analysis on the datasets. It can aid us in identifying the trends, patterns and the relationships between various features of the data. This will help the developers to understand and work on the key factors that help make their apps more successful and help them in making data-driven decisions when designing and marketing their apps.
+However, with such a vast amount data it can become a difficult to understand what makes an app successful in the market. So that is why it is beneficial to perform an exploratory data analysis on the datasets. It can aid us in identifying the trends, patterns and the relationships between various features of the data. This will help the developers to understand and work on the key factors that help make their apps more successful and help them in making data-driven decisions when designing and marketing their apps.
 
 There are two datasets available. One containing the details of the apps like its name, category to which it belongs to, the rating it has, its size, etc. While the other one contains details regarding the reviews given to the apps by the users and the sentiments attached to the reviews.
 
