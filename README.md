@@ -73,7 +73,7 @@ On the Play Store dataset and User Reviews dataset, some of the following proced
 - Sanity Checks
 - Merging the User Reviews Dataset with the Play Store Dataset
 
-<h1> Data Vizualization & Experimenting with charts </h1>
+<h1> Data Visualization & Experimenting with charts </h1>
 
 Following types of chart were used:
  
