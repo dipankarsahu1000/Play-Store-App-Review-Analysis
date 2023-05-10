@@ -19,7 +19,7 @@ The following are the steps that are going to be followed:
 1. Getting to Know the Data: Loading the datasets, checking the information in the datasets and examining different characteristics of the datasets like the number of rows and columns, null/missing values and duplicate values.
 2. Understanding the Variables: Diving deeper by checking each of the variables (columns) of the datasets, understanding what each of the variables stand for, studying some of the basic statistical details of the numerical variables and checking for the unique values for each of the columns.
 3. Data Wrangling: Taking care of the duplicate values, tending to the null/missing values, transforming the datatypes of the columns whenever required, etc.
-4. Data Vizualization & Experimenting with Charts: Understanding the relationships between variables with the help of suitable charts and coming up with some useful insights.
+4. Data Visualization & Experimenting with Charts: Understanding the relationships between variables with the help of suitable charts and coming up with some useful insights.
 5. Conclusion: Discussing the important insights that we have gained from the analysis.
 
 <h1> Getting to Know the Data </h1>
