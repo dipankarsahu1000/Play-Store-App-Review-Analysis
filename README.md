@@ -3,6 +3,7 @@
 There are two datasets available. One containing the details of the apps like its name, category to which it belongs to, the rating it has, its size, etc. While the other one contains details regarding the reviews given to the apps by the users and the sentiments attached to the reviews.
 To explore and analyze the data to discover key factors responsible for app engagement and success.
 
+
 <h1> Business Context </h1>
 
 The Play Store is a repository for a multitude of apps. The humongous data it holds can be prospectively very useful.
@@ -22,6 +23,7 @@ The following are the steps that are going to be followed:
 3. Data Wrangling: Taking care of the duplicate values, tending to the null/missing values, transforming the datatypes of the columns whenever required, etc.
 4. Data Visualization & Experimenting with Charts: Understanding the relationships between variables with the help of suitable charts and coming up with some useful insights.
 5. Conclusion: Discussing the important insights that we have gained from the analysis.
+
 
 <h1> Getting to Know the Data </h1>
 
@@ -68,25 +70,34 @@ The following are the steps that are going to be followed:
 <h1> Data Wrangling </h1>
 
 On the Play Store dataset and User Reviews dataset, some of the following procedures were used:
-- Taking care of the duplicate values.
-- Taking care of the null values.
-- Transforming the datatypes of the columns
-- Sanity Checks
-- Merging the User Reviews Dataset with the Play Store Dataset
+
+- Taking care of the duplicate values: Duplicate values should be first examined and then after consideration, the duplicate values may be dropped/removed while keeping only one of the occurrences of the duplicate values. If the duplicate values are not important at all, then they may be removed completely.
+
+- Taking care of the null values: If the null/missing values are not important to the analysis, then they can be simply removed. Otherwise, an appropriate value (like the mean, mode or median, depending on the case) can be imputed in place of the null values.
+
+- Transforming the datatypes of the columns: Wherever the values under a column are not of a datatype fit for further analysis, then those values should be transformed such that the new values are more suitable for the analysis.
+
+- Sanity Checks: These are a set of basic procedures performed on the datasets to quickly evaluate its correctness and quality. For example, checking if a set of values is within its expected range.
+
+- Merging the User Reviews Dataset with the Play Store Dataset: If it helps in generating more insights, then the datasets can be merged appropriately.
 
 <h1> Data Visualization & Experimenting with charts </h1>
 
-Following types of chart were used:
- 
-- Correlation Heatmap
-- Bar Plot
-- Pie Chart
-- Count Plot
-- Histogram
-- Box Plot
-- Regression Plot
-- Line Plot
-- Word Cloud
+1. Univariate Analysis: Univariate analysis involves examining the distribution of the variables in the dataset separately. Generally, the following charts are used for univariate analysis:
+    - Bar Plot: It displays the frequency or count of each category in a categorical variable using bars of equal width and height. It is suitable for displaying the frequency or count of each category in a categorical variable.
+    - Pie Chart: It displays the relative proportions of different categories in a categorical variable as slices of a pie.
+    - Count Plot: It is similar to a bar plot. The main difference between a bar plot and a count plot is that a bar plot can be used for both numerical and categorical data, while a count plot can only be used for categorical data.
+    - Histogram: It displays the distribution of a single continuous variable by dividing it into intervals (bins) and counting the number of observations in each bin.
+    - Box Plot: It displays the distribution of a numerical variable by showing the quartiles, median, and outliers.
+    - Line Plot: A chart that displays the trend or changes in a single variable over time or another continuous variable by connecting the data points with straight lines. Line plots can also be used to show the relationship between two numerical variables.
+    - Word Cloud: It is a visual representation that displays the frequency or importance of different words in a text by their size. The more frequent or important a word is in the text, the larger or more prominent it appears in the word cloud.
+
+2. Bivariate Analysis: Bivariate analysis involves examining the relationship between two variables in the dataset. Usually, the following charts are used for univariate analysis.  Usually, the following charts are used for univariate analysis:
+    - Correlation Heatmap: It displays the correlation between multiple variables in a matrix format, where the values are represented by colors and/or numbers.
+    - Scatter Plot: It displays the relationship between two continuous variables. Each point on the scatterplot represents a combination of values of the two variables.
+    - Regression Plot: It displays the relationship between two numerical variables and estimates a regression line that best fits the data.
+
+
 
 <h1> Conclusion </h1>
 
