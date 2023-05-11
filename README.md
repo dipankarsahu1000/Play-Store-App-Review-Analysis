@@ -1,8 +1,9 @@
-<h1> Problem Statement and Business Context </h1>
+<h1> Problem Statement</h1>
 
-<b> The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market.
-Each app (row) has values for category, rating, size, and more. Another dataset contains customer reviews of the android apps.
-To explore and analyze the data to discover key factors responsible for app engagement and success. </b>
+There are two datasets available. One containing the details of the apps like its name, category to which it belongs to, the rating it has, its size, etc. While the other one contains details regarding the reviews given to the apps by the users and the sentiments attached to the reviews.
+To explore and analyze the data to discover key factors responsible for app engagement and success.
+
+<h1> Business Context </h1>
 
 The Play Store is a repository for a multitude of apps. The humongous data it holds can be prospectively very useful.
 
@@ -10,7 +11,7 @@ The developers need to know the standards to strive for and the factors to take 
 
 However, with such a vast amount data it can become a difficult to understand what makes an app successful in the market. So that is why it is beneficial to perform an exploratory data analysis on the datasets. It can aid us in identifying the trends, patterns and the relationships between various features of the data. This will help the developers to understand and work on the key factors that help make their apps more successful and help them in making data-driven decisions when designing and marketing their apps.
 
-There are two datasets available. One containing the details of the apps like its name, category to which it belongs to, the rating it has, its size, etc. While the other one contains details regarding the reviews given to the apps by the users and the sentiments attached to the reviews.
+
 
 <h1> Approach </h1>
 
